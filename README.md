@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lukecarroll101
-- 👀 I’m interested in sports, learning how to code and tech.
+- 👀 I’m currently learning how to code and interested in tech.
 - 🌱 I’m currently learning python, specifically machine learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
