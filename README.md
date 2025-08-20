@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @lukecarroll101
-- 👀 I’m currently interested in expanding my data science knowledge, specfically machine learning, so I am focusing on expanding my skills in this area. 
-- 🌱 I’m currently learning intermediate level python coding, including best practices, object-oriented programming and transferring across my data analysis knowledge from R.
-- 💞️ I’m looking to collaborate on data science focused projects but also have a personal passion for web and APP development.
-- 📫 How to reach me: [LinkedIn - Luke](https://www.linkedin.com/in/luke-carroll-b2ba7b227?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtYmH%2FnVtR2WlxfVgoU3F7A%3D%3D)
+# 👋 Hi, I’m Luke
 
-<!---
-lukecarroll101/lukecarroll101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🎯 Current Focus  
+- Building **AI-powered tools and web applications** that simplify complex processes for consulting and safety-first industries.  
+- Developing a **360 leadership assessment tool** based on the Five Practices of Exemplary Leadership, designed to provide rich, AI-supported insights for leadership growth.  
+- Creating a **fleet safety checklist system** for small operators in the Australian heavy vehicle industry, making compliance more practical and accessible.  
+
+## 🚀 Learning & Growth  
+- Expanding my **data science and machine learning** knowledge, leveraging my background in R while advancing in Python (best practices, OOP, and applied analytics).  
+- Deepening my skills in **full-stack development**, with hands-on projects in Flask, React, and React Native, including dashboards, automation tools and client-facing apps.  
+
+## 💡 What Drives Me  
+- Passionate about applying **AI, automation and modern web technologies** to make work faster, smarter, and more accessible.  
+- Always seeking opportunities to collaborate on **AI, web/app development or data science projects** where I can combine technical expertise with practical consulting insight.  
